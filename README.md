@@ -15,3 +15,4 @@ Solo son válidas palabras con un mínimo de 3 letras. Ej: la, si, mi no son pal
 - Chanampa Macarena
 - Nahuel Ciolfi - 1B
 - Juan Arrúa
+- Agüero Lucia
