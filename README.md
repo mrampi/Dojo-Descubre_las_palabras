@@ -4,4 +4,4 @@
 - Chiodin Lucas
 - Chanampa Macarena
 - Nahuel Ciolfi - 1B
-- [AAA BBB CCC]
+- Juan Arrúa
