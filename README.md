@@ -1,8 +1,8 @@
 ## Alumnos Participantes:
-- Chiodin Lucas
-- Chanampa Macarena
+- Chiodin Lucas - 1B
+- Chanampa Macarena - 1B
 - Nahuel Ciolfi - 1B
-- Juan Arrúa
+- Juan Arrúa - 1B
 
 
 
