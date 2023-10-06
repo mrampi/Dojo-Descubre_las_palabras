@@ -6,7 +6,7 @@
 
 
 
-#Dojo - Descubre la Palabra: 
+## Dojo - Descubre la Palabra: 
 
 *Sobre el juego:*
 
