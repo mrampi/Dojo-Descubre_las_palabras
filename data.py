@@ -10,5 +10,9 @@ lista_palabras = {
     "relojeria": 
     [
         "reloj", "alejo", "rojo", "jaleo", "lea", "ola", "rola", "real", "ole"
+    ],
+    "milanesa":
+    [
+        "alamines", "almenáis", "amilanes", "animales", "enlamáis", "laminase", "mesalina", "milanesa"
     ]
 }
