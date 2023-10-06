@@ -24,5 +24,3 @@
 
 Solo son válidas palabras con un mínimo de 3 letras. Ej: la, si, mi no son palabras válidas.
 
-
-
